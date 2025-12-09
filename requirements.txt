@@ -1,0 +1,12 @@
+pinecone-client
+sentence-transformers
+langchain
+langchain-community
+pypdf
+python-dotenv
+flask
+flask-cors
+requests
+pyngrok
+huggingface_hub
+llama-cpp-python
