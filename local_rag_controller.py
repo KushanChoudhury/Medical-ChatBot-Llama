@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer
 import os
 
 
-COLAB_ENDPOINT = "https://phrenic-patently-mac.ngrok-free.dev" 
+COLAB_ENDPOINT = "https://ngrok-endpoint" 
 
 
 PINECONE_API_KEY =  os.getenv("PINECONE_API_KEY")
